@@ -1,60 +1,105 @@
-<h1 align="center">Hi 👋, I'm Vishnu Solanki</h1>
-<h3 align="center">Linux System Administrator | Infrastructure Engineer @ Clover Infotech</h3>
-<h4 align="center">2+ Years Experience in Linux, Automation, Monitoring & DevOps</h4>
+<div align="center">
+  
+# Hello Dosto 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Linux+System+Administrator;Infrastructure+Engineer;DevOps+%26+Cloud+Enthusiast;2%2B+Years+Experience)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-solanki-40a6b9308/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishnusoul20052@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/solankivishnu63)
+## 🚀 About Me
+
+I'm a **Linux System Administrator @ Clover Infotech** specializing in **Linux Infrastructure, Automation, Monitoring, and DevOps** from 🇮🇳 India, with **2+ years** of hands-on experience managing **large-scale production environments**.
+
+- 🔭 Currently managing **450+ Linux servers** in production & development  
+- 🌱 Learning **Cloud (AWS), Kubernetes, and advanced DevOps practices**  
+- 👯 Looking to collaborate on **Linux, Automation & DevOps projects**  
+- 💬 Ask me about **Linux, Bash, Monitoring, Docker, and Server Hardening**  
+- ⚡ Fun fact: I enjoy **automating everything that can be automated**
 
 ---
 
-## 🐧 Linux & Infrastructure
+## 🛠️ Tech Stack
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![SELinux](https://img.shields.io/badge/SELinux-000000?style=for-the-badge)
-![Firewalld](https://img.shields.io/badge/Firewalld-FF6F00?style=for-the-badge)
-![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge)
-![Cron](https://img.shields.io/badge/Cron-2E86C1?style=for-the-badge)
-![Systemd](https://img.shields.io/badge/Systemd-3C3C3C?style=for-the-badge)
-![LVM](https://img.shields.io/badge/LVM-2E86C1?style=for-the-badge)
-![RAID](https://img.shields.io/badge/RAID-555555?style=for-the-badge)
-![NFS](https://img.shields.io/badge/NFS-4E8EE9?style=for-the-badge)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+### **🐧 Linux & Infrastructure**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="rhel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="apache" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
+</p>
 
 ---
 
-## ⚙️ DevOps, Cloud & Monitoring
+### **⚙️ DevOps, Cloud & Automation**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-3F8624?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+---
+
+### **📊 Monitoring & Scripting**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=solankivishnu63&theme=dark&hide_border=false&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=solankivishnu63&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=solankivishnu63&theme=dark&hide_border=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=solankivishnu63&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solankivishnu63&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solankivishnu63&theme=tokyonight&hide_border=true" width="400"/>
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=solankivishnu63&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=solankivishnu63&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+</div>
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solankivishnu63&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-solanki-40a6b9308/)
+[![Email](https://img.shields.io/badge/Email-vishnusoul20052@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnusoul20052@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-solankivishnu63-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solankivishnu63)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Building reliable Linux infrastructure through automation and monitoring"
+
+![Profile Views](https://komarev.com/ghpvc/?username=solankivishnu63&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/solankivishnu63?label=Follow&style=social)](https://github.com/solankivishnu63)
+
+</div>
