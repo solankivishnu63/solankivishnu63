@@ -56,26 +56,8 @@ I'm a **Linux System Administrator @ Clover Infotech** specializing in **Linux I
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://gh-stats.alexanderheinz.dev/api?username=solankivishnu63&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://gh-stats.alexanderheinz.dev/api/top-langs?username=solankivishnu63&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=solankivishnu63&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=solankivishnu63&theme=tokyonight&no-frame=true&column=6"/>
-</div>
-
----
 
 ## 🌐 Connect With Me
 
