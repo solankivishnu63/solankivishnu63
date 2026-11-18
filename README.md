@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Linux System Administrator @ Clover Infotech** specializing in **Linux Infrastructure, Automation, Monitoring, and DevOps** from 🇮🇳 India, with **2+ years** of hands-on experience managing **large-scale production environments**.
+I'm a **Linux System Administrator @ Clover Infotech** specializing in **Linux Infrastructure, Automation, Monitoring, and DevOps** from 🇮🇳 India, with **3+ years** of hands-on experience managing **large-scale production environments**.
 
 - 🔭 Managing **450+ Linux servers** across production & development  
 - 🌱 Learning **AWS, Kubernetes, and Cloud Automation**  
