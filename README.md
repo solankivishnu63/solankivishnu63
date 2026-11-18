@@ -2,7 +2,7 @@
 
 # Hello Dosto 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=Linux+System+Administrator;Infrastructure+Engineer;DevOps+%26+Cloud+Engineer;3%3B+Years+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=Linux+System+Administrator;Infrastructure+Engineer;DevOps+%26+Cloud+Engineer;3%2B+Years+Experience)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Linux System Administrator @ Clover Infotech** specializing in **Linux Infrastructure, Automation, Monitoring, and DevOps** from 🇮🇳 India, with **3+ years** of hands-on experience managing **large-scale production environments**.
+I'm a **Server & Devops Engineer** specializing in **Linux Infrastructure, Automation, Monitoring, and DevOps** from 🇮🇳 India, with **3+ years** of hands-on experience managing **large-scale production environments**.
 
 - 🔭 Managing **450+ Linux servers** across production & development  
 - 🌱 Learning **AWS, Kubernetes, and Cloud Automation**  
