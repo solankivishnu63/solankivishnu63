@@ -2,7 +2,7 @@
 
 # Hello Dosto 👋  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=Linux+System+Administrator;Infrastructure+Engineer;DevOps+%26+Cloud+Engineer;2%2B+Years+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=450&lines=Linux+System+Administrator;Infrastructure+Engineer;DevOps+%26+Cloud+Engineer;3%3B+Years+Experience)](https://git.io/typing-svg)
 
 </div>
 
